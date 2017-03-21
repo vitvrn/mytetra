@@ -6,6 +6,26 @@
   <node crypt="" id="1300000000aaaaaaaaa1" name="MyTetra">
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="1488463351pq4nzbd3aq" name="Синхронизация - настройка" author="" url="http://webhamster.ru/site/page/index/articles/projectcode/170" tags="настройка,MyTetra,help" ctime="20170302170231" dir="1488463351pz7aew9n4c" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="14892331039zluax3834" name="Рецепты">
+   <recordtable>
+    <record id="1489233340jaaqjenozm" name="Чуфа - земляной (тигровый) орех" author="" url="" tags="" ctime="20170311145540" dir="1489233340gdxq4vacyu" file="text.html">
+     <files>
+      <file id="1489234719et2rdao669" fileName="JGw8d5Psb5g.jpg" type="file"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
+  <node crypt="1" icon="" id="14897555130o2rev4iq8" name="UkM1U0lNUAOrcyTqf1NYYNBpIrlxL8rGfOqFxhw+/VhrFF0Qu+F+rtCfoS47t9Hp5Eg3tNMJvMA=">
+   <recordtable>
+    <record id="1489755548wpplau6vfd" name="UkM1U0lNUANDwpI5CfJSOvfCnQ0pp/rYmymGJdCA7hqibWaK+sCTe2nmAd7tFIU0L9t7qQExe63Ul060LpgTRQ==" author="" url="" tags="" ctime="20170317155908" dir="14897555485whnnwj8u9" file="text.html" crypt="1"/>
+    <record id="1489755703euywr7ylz8" name="UkM1U0lNUAMr1m4IK5wpQseuk2yEqrU6NM86EZHn5egGncnxIPju8H4mvjIz1ULNDPZnrYGWUJhh+NcWC2aZHQ==" author="" url="" tags="" ctime="20170317160143" dir="1489755703rorb2rssed" file="text.html" crypt="1">
+     <files>
+      <file id="14900997645bh9p1bgfh" fileName="UkM1U0lNUANeVIJNtd9QYxEKe3RS8FL14qFDcL3PMeocSZk5lHZz5wSkrHzH9EiSkAvLvz6uFRMhCU574NG1fA==" type="file" crypt="1"/>
+     </files>
+    </record>
    </recordtable>
   </node>
  </content>
