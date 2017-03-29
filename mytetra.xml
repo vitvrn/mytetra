@@ -7,7 +7,13 @@
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
     <record id="1488463351pq4nzbd3aq" name="Синхронизация - настройка" author="" url="http://webhamster.ru/site/page/index/articles/projectcode/170" tags="настройка,MyTetra,help" ctime="20170302170231" dir="1488463351pz7aew9n4c" file="text.html"/>
+    <record id="14907838064imt5044m7" name="ТАБЛИЦА СИМВОЛОВ" author="" url="" tags="" ctime="20170329133646" dir="1490783806hhlmzd2ndk" file="text.html"/>
    </recordtable>
+   <node crypt="" id="14901202071ry5fg6s8k" name="Идеи для MyTetra">
+    <recordtable>
+     <record id="1490120471c8ycry0rid" name="Автоматические метки (теги)" author="" url="" tags="" ctime="20170321212111" dir="1490120471g1pu6kacci" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="14892331039zluax3834" name="Рецепты">
    <recordtable>
@@ -18,15 +24,54 @@
     </record>
    </recordtable>
   </node>
-  <node crypt="1" icon="" id="14897555130o2rev4iq8" name="UkM1U0lNUAOrcyTqf1NYYNBpIrlxL8rGfOqFxhw+/VhrFF0Qu+F+rtCfoS47t9Hp5Eg3tNMJvMA=">
+  <node crypt="" id="14901041961mzou6kv09" name="Администрирование">
    <recordtable>
-    <record id="1489755548wpplau6vfd" name="UkM1U0lNUANDwpI5CfJSOvfCnQ0pp/rYmymGJdCA7hqibWaK+sCTe2nmAd7tFIU0L9t7qQExe63Ul060LpgTRQ==" author="" url="" tags="" ctime="20170317155908" dir="14897555485whnnwj8u9" file="text.html" crypt="1"/>
-    <record id="1489755703euywr7ylz8" name="UkM1U0lNUAMr1m4IK5wpQseuk2yEqrU6NM86EZHn5egGncnxIPju8H4mvjIz1ULNDPZnrYGWUJhh+NcWC2aZHQ==" author="" url="" tags="" ctime="20170317160143" dir="1489755703rorb2rssed" file="text.html" crypt="1">
+    <record id="14901043149x80r5scdg" name="Создаём загрузочный USB диск с Windows из под Linux" author="" url="https://the-bosha.ru/2016/04/01/sozdayom-zagruzochnyiy-usb-disk-s-windows-iz-pod-linux/" tags="Windows, Linux, bootable usb" ctime="20170321165154" dir="1490104314uz95fi2j05" file="text.html">
      <files>
-      <file id="14900997645bh9p1bgfh" fileName="UkM1U0lNUANeVIJNtd9QYxEKe3RS8FL14qFDcL3PMeocSZk5lHZz5wSkrHzH9EiSkAvLvz6uFRMhCU574NG1fA==" type="file" crypt="1"/>
+      <file id="1490104679a278sky0o0" fileName="Создаём загрузочный USB диск с Windows из под Linux _ Блог Боши.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="1490105328ots4aljkrd" name="Ошибка INACCESSIBLE_BOOT_DEVICE в Windows 10" author="" url="" tags="Windows 10, error, boot" ctime="20170321170848" dir="14901053281m02x97g6p" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="1" icon="" id="14897555130o2rev4iq8" name="UkM1U0lNUAOKIAQy1xoY3jdjfvx7eZowJiK/gnrkZYVVdqQ5jkD4H+tLVXsT5DsyXlGCyKlu1aE=">
+   <recordtable>
+    <record id="1489755548wpplau6vfd" name="UkM1U0lNUAMu25FVvsCB0h3NzdxhiQU4u5znkFMYGR8uJh1FTGXX66iU4BSwYkeTT3qjiKvNTBwBdwuYCVCriQ==" author="" url="" tags="" ctime="20170317155908" dir="14897555485whnnwj8u9" file="text.html" crypt="1"/>
+    <record id="1489755703euywr7ylz8" name="UkM1U0lNUAPZysZ2ib/AvsMHA9Ln9DN4pI6wOCLe9SWi6xs9uG1qkjIwMVql96VVh+46iB/qJOnRCOiDjp0N9A==" author="" url="" tags="" ctime="20170317160143" dir="1489755703rorb2rssed" file="text.html" crypt="1">
+     <files>
+      <file id="14900997645bh9p1bgfh" fileName="UkM1U0lNUAOdnL/5SjX/JGWpo/QBlLnc373pPnVlLMtNpxnV1yh1r3+cmBQilRb9Z+Dgst9/O67Q53W1vWOMkw==" type="file" crypt="1"/>
      </files>
     </record>
    </recordtable>
+  </node>
+  <node crypt="1" icon="" id="1490109654dxfiuk4sdg" name="UkM1U0lNUAPvVGDJHiY/p7pli/KHE9UN1jCw06NiFrmNDu8Oj+U5LfEUfDDlBqPY">
+   <node crypt="1" icon="" id="1490109740tdob7r7hd3" name="UkM1U0lNUAP/9bgOcX1FYauRq2vU/mdruSgq1Zg9RvKtROno4UXyNiG8evFO9PatXdgWrMB+unkF0gJbZwIqc6ir1UiN2hsw">
+    <recordtable>
+     <record id="1490109920gyffrhi4wy" name="UkM1U0lNUAPDu6YDKUwWHmMNAEGVQai6tXBrhw2oVa2ZGB+TauNHCL3OOum19VTIthnI2d+gZKZR3cvqbwzPrJhfgtzJaai+/mCwMs5MB3F6GfedJUaYAx/Qw6YUiRdOvg7WqyNhlOks0qJjq+p8fQx1DoaJVgrJoyc2EHjvkHQ=" author="" url="" tags="" ctime="20170321182520" dir="1490109920jvxz2tt32a" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1490782745abu6ufajos" name="UkM1U0lNUAPkVH0i8n5ZdDTQAS4B5xJeEpZfmeQPs1WuMtBQzpgQJoHUw05L7kkcthybtXqEEsmzjGiy4cesPg==">
+    <recordtable>
+     <record id="1490783053vewlfwcmih" name="UkM1U0lNUAPa1GMvZuhLdbaH5u9rLT6FRPlLCeZHSFsSCrCFF8aFRworngs0lmn5wGEdUnZp79SliO9tjRBXRd+tMW5WZ+DYJLS3/u+Hs6w=" author="" url="" tags="" ctime="20170329132413" dir="1490783053xdtaugihx5" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1490791475bb20pss0y7" name="UkM1U0lNUAM8dimtPMNT2xMaME7tDZWMIg68bbkJJ3a1759AGnPcDZaLSyUc9LVPFJvtIUJkZO8QqcI7wbBNsE1YzMgEk/Oi">
+    <recordtable>
+     <record id="1490791669btird1wgda" name="UkM1U0lNUAPsWOYteoVi+g6wFCV7VfVQEBkJzexHUbYrUpQGYkZ/KPlPLPstDyfE4ZOrP04k+kprDGeqAVyNodNn5U4cE6mS4iENrw+MhDOqqKyptR1nX5dAZuC+DfgE" author="" url="" tags="" ctime="20170329154749" dir="1490791669s9xkotnf76" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="14901194365s93hn8p53" name="МАТЕМАТИКА">
+   <node crypt="" id="1490119448dko05f08cy" name="Нерешенные задачи">
+    <recordtable>
+     <record id="14901194645t5sd5g0ut" name="Совершенных нечетных чисел не существует" author="" url="" tags="" ctime="20170321210424" dir="1490119464gr8krtfri7" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1490119800rc4gccpsj7" name="Решенные">
+    <recordtable>
+     <record id="14901198267hoo2lxsen" name="Построить 5-угольник циркулем и линейкой" author="" url="https://youtu.be/Hf9MFBMxcls?t=38m35s" tags="" ctime="20170321211026" dir="1490119826nyx7uazkij" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
