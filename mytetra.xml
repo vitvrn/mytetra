@@ -57,6 +57,7 @@
       </files>
      </record>
      <record id="1499429186ynvm7mhfz2" name="UkM1U0lNUAPnS5d62sd5O6aHByHl0cqs06OZxlIaSvCrH1voPbKaJ32/FGV0Y6lFpwon15mrF/VKm9pD7dc8eNpKFeYRWwqI" author="" url="UkM1U0lNUAPvdKgUn49gNrBLTgBuoQLV37dhJ+S0hPgiStiKP/tETjc5HF93oblI1LjcOK+7fFygcDI3otc+sFnpciXLv3EL9mjqWnhR3seVWyG/SVrfWgsAY0TRsHNYmhKK1AFxqQz3O8rS8Qx3LrdMTQ29ml7p" tags="" ctime="20170707150626" dir="1499429186cd2d1joxm3" file="text.html" crypt="1"/>
+     <record id="1499699966k4atkqje3p" name="UkM1U0lNUAMWfNMXB5RQRNG2MXifVUZUCW4h//n/J2KqEX5QfXIGsFsEOysRaUBNnQpPFZb3RrW17JYxkVFSUZTTB7sGbUMF" author="" url="" tags="UkM1U0lNUAOZdsavoTvFHmWBc/e80y3qirwSojyvdulIOqHI1M9w0KQuqLyyXPMVKls5wGKslnGls+zt0fYufKVEQyPpF5Q7dvCQDbFuLnENgnV1qM7jXpnXMWT1/W/4XzNeEBLjTao=" ctime="20170710181926" dir="1499699966e719twzr25" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
@@ -125,6 +126,20 @@
    <node crypt="1" icon="" id="1493142399piqeq7h5r1" name="UkM1U0lNUAPZFIO3uNWwZI1OXnKEjfF5HTzoNNSW3H8ppMEgg0+qNJV1J/pTICte">
     <recordtable>
      <record id="14931424977rstk73h26" name="UkM1U0lNUAMBhVdH95W/C6L5AMcIk2H3rmz62eK/SQV6bbZefwCUropludhzrWUAkqWYNTDPTlLZoXRDFG+gG5r1mMtAAsdy" author="" url="" tags="" ctime="20170425204817" dir="1493142497dibnb773eu" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1505998370d6ypiqqhrz" name="Программирование">
+   <node crypt="" id="1505998383bak550cl2x" name="Веб">
+    <recordtable>
+     <record id="1505998585cijvx4djuv" name="heroku - тестовый проект на Python" author="" url="https://devcenter.heroku.com/articles/getting-started-with-python#introduction" tags="" ctime="20170921155625" dir="150599858560aqmf6y0o" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1506409692riovfx3izw" name="Linux">
+   <node crypt="" id="1506409905vlb5iwbtge" name="Using">
+    <recordtable>
+     <record id="1506410077dd3qo2iw49" name="mc" author="" url="" tags="" ctime="20170926101437" dir="1506410077bie3nczy6g" file="text.html"/>
     </recordtable>
    </node>
   </node>
