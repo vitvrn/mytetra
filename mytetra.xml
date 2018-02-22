@@ -33,57 +33,70 @@
     </record>
     <record id="1490105328ots4aljkrd" name="Ошибка INACCESSIBLE_BOOT_DEVICE в Windows 10" author="" url="" tags="Windows 10, error, boot" ctime="20170321170848" dir="14901053281m02x97g6p" file="text.html"/>
    </recordtable>
-  </node>
-  <node crypt="1" icon="" id="14897555130o2rev4iq8" name="UkM1U0lNUAOKIAQy1xoY3jdjfvx7eZowJiK/gnrkZYVVdqQ5jkD4H+tLVXsT5DsyXlGCyKlu1aE=">
-   <recordtable>
-    <record id="1489755548wpplau6vfd" name="UkM1U0lNUAMu25FVvsCB0h3NzdxhiQU4u5znkFMYGR8uJh1FTGXX66iU4BSwYkeTT3qjiKvNTBwBdwuYCVCriQ==" author="" url="" tags="" ctime="20170317155908" dir="14897555485whnnwj8u9" file="text.html" crypt="1"/>
-    <record id="1489755703euywr7ylz8" name="UkM1U0lNUAPZysZ2ib/AvsMHA9Ln9DN4pI6wOCLe9SWi6xs9uG1qkjIwMVql96VVh+46iB/qJOnRCOiDjp0N9A==" author="" url="" tags="" ctime="20170317160143" dir="1489755703rorb2rssed" file="text.html" crypt="1">
-     <files>
-      <file id="14900997645bh9p1bgfh" fileName="UkM1U0lNUAOdnL/5SjX/JGWpo/QBlLnc373pPnVlLMtNpxnV1yh1r3+cmBQilRb9Z+Dgst9/O67Q53W1vWOMkw==" type="file" crypt="1"/>
-     </files>
-    </record>
-   </recordtable>
-   <node crypt="1" icon="" id="1490861733utxka3bkmd" name="UkM1U0lNUAPIs99sBZS/HwzWjlMEDnjN5YsqdlD1OGKTicZ79ZROBnLEcaSOT57jmNrtvRIjW/BKNoUTWUy+YA==">
-    <recordtable>
-     <record id="1490861875ipxli83noy" name="UkM1U0lNUAPG1n4yjaMg2lPg81CRqAUxIrCEahDsPtU4lMn8Di4rSQa3IJ+ty8Bq" author="" url="UkM1U0lNUAN0PG2iAkMgNKmKGMCt8+6OsE6T3k6yOUQDfmkV9Jmyrvatc92O8x4abIfxI+FxfMEDlXTqMv4ITDkIucQuTajwej1VD6Sc7EE=" tags="UkM1U0lNUAPwT6QsvEYvACJrzivBy3WmsAL31U0rGMZ61r1U/4bXMvUaQaDwss739HBMwxuWp+U=" ctime="20170330111755" dir="1490861875jvgjajh8ce" file="text.html" crypt="1"/>
-    </recordtable>
-   </node>
-   <node crypt="1" icon="" id="14992477447ra5xgle7z" name="UkM1U0lNUANQWWQinfWvPqaglEv4DCRI0hdxvkdNIyyKZ2NKoq8FtK2IITFpn0vu">
-    <recordtable>
-     <record id="1499247806gmawch5s92" name="UkM1U0lNUAMzcTr2LU7dQoQS3GIF2v2yBVoAguO9SsuE+qEEu+t1Z50gO4w8jJ1nBVv9eQz4zV07OsOmtVrBAg==" author="" url="" tags="" ctime="20170705124326" dir="1499247806vv2v5f60lw" file="text.html" crypt="1"/>
-     <record id="14992546089je9f3s15t" name="UkM1U0lNUAMXOVd0TZiyr5EPOioN1nS0eq5AlMqTB8ND0mW/AQhgG/WEZEm1NZOEpEJaXk2z3EE=" author="" url="UkM1U0lNUAMZqHaN9Q5ApVpz0QshOAHiSqz/7ooT8MYYqk+zBHo70ZDKl68PjdJRHMer/soL9a4vQoOULzqxSdvI8B2AYmuwXg64Ehda2tvrxFmjf8kdbA==" tags="" ctime="20170705143648" dir="1499254608uv0eld0fpm" file="text.html" crypt="1">
-      <files>
-       <file id="1499254825z1tms1cbzv" fileName="UkM1U0lNUAM9qD2Ahn5k77qeWfGMXFEr2zhimQf55oXv3xFUoDh/5dgwE1u0ykrDqwzlmJEKnMuh8ZJo4BaeF6GuDrZ5jmcq" type="file" crypt="1"/>
-      </files>
-     </record>
-     <record id="1499429186ynvm7mhfz2" name="UkM1U0lNUAPnS5d62sd5O6aHByHl0cqs06OZxlIaSvCrH1voPbKaJ32/FGV0Y6lFpwon15mrF/VKm9pD7dc8eNpKFeYRWwqI" author="" url="UkM1U0lNUAPvdKgUn49gNrBLTgBuoQLV37dhJ+S0hPgiStiKP/tETjc5HF93oblI1LjcOK+7fFygcDI3otc+sFnpciXLv3EL9mjqWnhR3seVWyG/SVrfWgsAY0TRsHNYmhKK1AFxqQz3O8rS8Qx3LrdMTQ29ml7p" tags="" ctime="20170707150626" dir="1499429186cd2d1joxm3" file="text.html" crypt="1"/>
-     <record id="1499699966k4atkqje3p" name="UkM1U0lNUAMWfNMXB5RQRNG2MXifVUZUCW4h//n/J2KqEX5QfXIGsFsEOysRaUBNnQpPFZb3RrW17JYxkVFSUZTTB7sGbUMF" author="" url="" tags="UkM1U0lNUAOZdsavoTvFHmWBc/e80y3qirwSojyvdulIOqHI1M9w0KQuqLyyXPMVKls5wGKslnGls+zt0fYufKVEQyPpF5Q7dvCQDbFuLnENgnV1qM7jXpnXMWT1/W/4XzNeEBLjTao=" ctime="20170710181926" dir="1499699966e719twzr25" file="text.html" crypt="1"/>
-    </recordtable>
-   </node>
-  </node>
-  <node crypt="1" icon="" id="1490109654dxfiuk4sdg" name="UkM1U0lNUAPvVGDJHiY/p7pli/KHE9UN1jCw06NiFrmNDu8Oj+U5LfEUfDDlBqPY">
-   <recordtable>
-    <record id="1493142370s763z3rcq5" name="UkM1U0lNUAP9+V4Jy0cOgDWLnR/VGuse8qaOg4icvL8l71fp7dVU/bT3XKlSOAcfqJYYaY2SV8mZArdLhiFZbVRpLe/CPGkX6aERR6fUBmG1a5mS6zMb2y/Bus63py4q9mBe4OuOGCM=" author="" url="" tags="UkM1U0lNUANO/fwIR0sFQEQ4POTDvJsBCvHJvx544zeXzwJt1Y0cC6MBmoWaCKUxy8Jhpb+xpufiRQGf25T+WA==" ctime="20170425204610" dir="149314237029fffjeiyw" file="text.html" crypt="1"/>
-   </recordtable>
-   <node crypt="1" icon="" id="1490109740tdob7r7hd3" name="UkM1U0lNUAP/9bgOcX1FYauRq2vU/mdruSgq1Zg9RvKtROno4UXyNiG8evFO9PatXdgWrMB+unkF0gJbZwIqc6ir1UiN2hsw">
-    <recordtable>
-     <record id="1490109920gyffrhi4wy" name="UkM1U0lNUAPDu6YDKUwWHmMNAEGVQai6tXBrhw2oVa2ZGB+TauNHCL3OOum19VTIthnI2d+gZKZR3cvqbwzPrJhfgtzJaai+/mCwMs5MB3F6GfedJUaYAx/Qw6YUiRdOvg7WqyNhlOks0qJjq+p8fQx1DoaJVgrJoyc2EHjvkHQ=" author="" url="" tags="" ctime="20170321182520" dir="1490109920jvxz2tt32a" file="text.html" crypt="1"/>
-    </recordtable>
-    <node crypt="1" icon="" id="1491816121fug3rvfbdc" name="UkM1U0lNUAPfD6A5LsDp1JOr6FtYvbventBGqevAQuECTInG6pt7lkM2vYx+kG0Mn3JAZdcUetn6RnhRT7eFSQ==">
+   <node crypt="" id="15163030760nr15q338t" name="db">
+    <node crypt="" id="1516303118puigb3ne6v" name="postgres">
      <recordtable>
-      <record id="1491816325i7p4fspiaz" name="UkM1U0lNUANtqiGKx08YxSHDkBudmZyUakZwoU9Ia2WSLUuZnaZ+FEADazH/W8QOM6Snj4fNV2YHektxf0jntq1dmItGQYJjl67Ii6Ggq5rWA99Y7PEDedvsZy/o1y3M" author="" url="UkM1U0lNUANH29HRoiDqaM/zXSdr1uiM/f0quL6a6E+NQUiJHziR6FQ1TrbGfg1WUk+nkCC+fcqQp2M+mFtpxt2CjaPbpuO6LFjHGJ/flhlLCWAbgizLgtXkkbHv5Nrf" tags="" ctime="20170410122525" dir="1491816325yvmb4938tf" file="text.html" crypt="1"/>
-      <record id="14919133042uyvkq73t8" name="UkM1U0lNUAMmU6dlqo31Ay1Si1eq0qK0gziI4FlABvwFflhxk/EVJfNqUDa1RkpcCXtwqmUg5LlwY8BOzLdlYiuNJYHwmBhQ1aog7CnSTL4XDZQA4YmQ4sxQS+1GvYkpZlT8ycIGEaFQQaeSX+U4UQ==" author="" url="" tags="UkM1U0lNUANGkRmrO6ahPoMcPwEYTsI45fCGco4JSAUQcjnmCr8qvEF3tcrzoo4zSlaKf828DPWiJ9ybxzaxxHIxuqD54ZSj" ctime="20170411152144" dir="1491913304ivqga87fil" file="text.html" crypt="1"/>
+      <record id="1516303258919isxihg2" name="pgAdmin3 run as postgres user" author="" url="" tags="db, postgres, linux" ctime="20180118222058" dir="1516303258zutxbk0ee7" file="text.html"/>
      </recordtable>
     </node>
    </node>
-   <node crypt="1" icon="" id="1490782745abu6ufajos" name="UkM1U0lNUAPkVH0i8n5ZdDTQAS4B5xJeEpZfmeQPs1WuMtBQzpgQJoHUw05L7kkcthybtXqEEsmzjGiy4cesPg==">
+  </node>
+  <node crypt="1" icon="" id="14897555130o2rev4iq8" name="UkM1U0lNUAPlIXoxqeN+BeOdCp3pxtah3tXpNbALU59mcYABIzcdvenPNHxoYDItVInX3ZD+CHQ=">
+   <recordtable>
+    <record id="1489755548wpplau6vfd" name="UkM1U0lNUAMxDUhLrtXegGvzKO/GG44Niq6UWH81Et6kAOoGIZF1K+OhxsVQ+uq2oTrhe71spw4TZkx71bDw8Q==" author="" url="" tags="" ctime="20170317155908" dir="14897555485whnnwj8u9" file="text.html" crypt="1"/>
+    <record id="1489755703euywr7ylz8" name="UkM1U0lNUANmH5dDMZwNDlMWEalIXWsp/nrtCxE8i8kkOgbMKO5lrnWt1/gKlBKgdtXUFFidfhX2rtisrrKyKQ==" author="" url="" tags="" ctime="20170317160143" dir="1489755703rorb2rssed" file="text.html" crypt="1">
+     <files>
+      <file id="14900997645bh9p1bgfh" fileName="UkM1U0lNUAPQ3BIEyt2Ptw6fVsuE/EcQa13tJvmszf2jYiXUV+XHhpOF7ygwnBNRY90+xDZ9cUHpyRtLxAPhfQ==" type="file" crypt="1"/>
+     </files>
+    </record>
+   </recordtable>
+   <node crypt="1" icon="" id="1490861733utxka3bkmd" name="UkM1U0lNUAOp3hQP/axSLgUo7LUKnrY8qICeF4Etot/0JCm7i6z9EIvUl0DJqJZMbmxMCO9WGPZ7bBW/seppQQ==">
     <recordtable>
-     <record id="1490783053vewlfwcmih" name="UkM1U0lNUAPa1GMvZuhLdbaH5u9rLT6FRPlLCeZHSFsSCrCFF8aFRworngs0lmn5wGEdUnZp79SliO9tjRBXRd+tMW5WZ+DYJLS3/u+Hs6w=" author="" url="" tags="" ctime="20170329132413" dir="1490783053xdtaugihx5" file="text.html" crypt="1"/>
+     <record id="1490861875ipxli83noy" name="UkM1U0lNUAO7I8ISxZYQTyUzpqzA6vhGQxmsQwFhIthi1xA7Xqw/oHqy+1d+XoJD" author="" url="UkM1U0lNUAMoiHfCQ5qEVXL2ywACk+iGv54D0E6/j8PNIa32cBay2+vfPLgvNLsisjT6y79z7z+6ehEeb4prkZ8dZIovkLtdjjtRA6rx9/0=" tags="UkM1U0lNUAPoWIFwz0OzanPak6BBN8Mgmy9cSHpR96/NqWGhbvXSM55xqyKJxFROi9tTjXGs5gM=" ctime="20170330111755" dir="1490861875jvgjajh8ce" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="1" icon="" id="1490791475bb20pss0y7" name="UkM1U0lNUAM8dimtPMNT2xMaME7tDZWMIg68bbkJJ3a1759AGnPcDZaLSyUc9LVPFJvtIUJkZO8QqcI7wbBNsE1YzMgEk/Oi">
+   <node crypt="1" icon="" id="14992477447ra5xgle7z" name="UkM1U0lNUAM/qYDKAmgig67k7Zlrz2WXQu94WN5q2Y98rgQUNSJDbtESdsbqPeo3">
     <recordtable>
-     <record id="1490791669btird1wgda" name="UkM1U0lNUAPsWOYteoVi+g6wFCV7VfVQEBkJzexHUbYrUpQGYkZ/KPlPLPstDyfE4ZOrP04k+kprDGeqAVyNodNn5U4cE6mS4iENrw+MhDOqqKyptR1nX5dAZuC+DfgE" author="" url="" tags="" ctime="20170329154749" dir="1490791669s9xkotnf76" file="text.html" crypt="1"/>
+     <record id="1499247806gmawch5s92" name="UkM1U0lNUAMaGO/RS0DHKPKwle89x/xoCBX77meXYIUUwJbpOFyHf9KGb/hUDQ3xYoT045mezc060lkCakD9Mw==" author="" url="" tags="" ctime="20170705124326" dir="1499247806vv2v5f60lw" file="text.html" crypt="1"/>
+     <record id="14992546089je9f3s15t" name="UkM1U0lNUAPZSBkd6dzmkJLT0Mj/+R9gy4xGt1Iqc1Vcybf3ZdhWiU7PUK2ALYyafjD4IMMdsPQ=" author="" url="UkM1U0lNUAPQQK/tKYvTuT/xRjrne7oBQLi3KprV3Djd8pxrVaSYmO2NxXspsbyVsehFJ1+1o7mDOgA35kAPtYhe/7j+wp7kUpWSXgtrQ26C60ybOvqE7Q==" tags="" ctime="20170705143648" dir="1499254608uv0eld0fpm" file="text.html" crypt="1">
+      <files>
+       <file id="1499254825z1tms1cbzv" fileName="UkM1U0lNUANDocPJphMTmp0ZzfHzVXoMW30A0SGbpN9zT5XcD/vtIifgYPAHckVlq8rItWAlgq9rEVfeaXsUW6QvIZOQ8uYk" type="file" crypt="1"/>
+      </files>
+     </record>
+     <record id="1499429186ynvm7mhfz2" name="UkM1U0lNUAMKvnVFI2XBN1I/dUCSYerC6quJJEJZtwxSomO+847MGLpabeAGdnPlfDC+bQIJFsbvkk1VR6a4WtAEIMfr/bu+" author="" url="UkM1U0lNUAM2VeUmq+/kIKmhwuOjGxSo+J1LNDojhpypgFD6gEiQiEr2zsI5X1zngg1Vn0QqKXAPYaQjuuZG1k/uV6LVS+VyZUlAphYlONEFQ4CCK0cV0MxNP3lhGuvY97y82Az+y623hZc+5UhCH0c6HvzChKH6" tags="" ctime="20170707150626" dir="1499429186cd2d1joxm3" file="text.html" crypt="1"/>
+     <record id="1499699966k4atkqje3p" name="UkM1U0lNUANJAvhLb2R1/Ozx+tzfm7t+OfuiB+JxiFxHvuxw3Ekli5cpDivdQDnVa4SPQpE3km+sNZGqduQQLDzh8PYOG9e9" author="" url="" tags="UkM1U0lNUAPkPZUUckdddemzgo77nBeP93elDGCUszitSbJHd8TN0ZT1Dh+fYuWvn8wP4zCCyJp3XsOlrxzgNo/bCNb0HfmiEYF7q3Ne9wrqcwmPYXe/xhhX9MxYXljMMOEmoJkzDdg=" ctime="20170710181926" dir="1499699966e719twzr25" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1490109654dxfiuk4sdg" name="UkM1U0lNUAOV2k56fmtaJ0TZsyNEx4EuV9rAqHeC3HWcLR/WrM5xQ5JRHgwD6JcE">
+   <recordtable>
+    <record id="1493142370s763z3rcq5" name="UkM1U0lNUAMcuCMvH5R3NMTaCT0Som8FpbtiWkh+ot1RVTSP6fegHMvov85ajMRF0Zbl+U135xZVNK36rc/iZWO8SEeVaFlMKMZDeZ2vTI0oJ1a9Iilet9uM/TLukpSNOO6aYdXHRaE=" author="" url="" tags="UkM1U0lNUANxG6LL3RPnlfVH7uj01v6JQ0BKF3lUK65ZTy10QOHgV3+L964b9xWzc7PB/F9AsaSixf7ancfYVA==" ctime="20170425204610" dir="149314237029fffjeiyw" file="text.html" crypt="1"/>
+   </recordtable>
+   <node crypt="1" icon="" id="1490109740tdob7r7hd3" name="UkM1U0lNUANeGAeIehLN6/e3lh3/gkRvjnQpCuzD1Y9uFqgN6jaWTi2CdAvvvRowbJRWrRHoZ+UX96qHN4RI9viC1vwgZ2bJ">
+    <recordtable>
+     <record id="1490109920gyffrhi4wy" name="UkM1U0lNUAO12mFp7bK/AAn6PFT2+unyByEen0KhAbzMzg7W7JBYYAp3dHnyz4Ru5xePEfSu3X0Uf+v7MMmu2HU36YmCLW4gRSkdprYOxOtyBlgZe7HrkR4y9dmNZpbymWUcvIl86iU/pkPVEbMauAb2T6W0Isskq0QRDVda8ik=" author="" url="" tags="" ctime="20170321182520" dir="1490109920jvxz2tt32a" file="text.html" crypt="1"/>
+    </recordtable>
+    <node crypt="1" icon="" id="1491816121fug3rvfbdc" name="UkM1U0lNUAP+tWdfHlQS3dkoNaOJuMjN4HazcMqsGKnmzJH1Hns8xyW0lDOI490vjbyWqYKeJbKVZzhzTyfXAQ==">
+     <recordtable>
+      <record id="1491816325i7p4fspiaz" name="UkM1U0lNUAOEyqHP7aamDrK7Izw6nJQeEYpREbZKJ8CYbWO6Fdn5HDpCb6V2xeYVpBvDOjRqBOIbtIbaJeHCk8R6d+vQ9kr9nHvR9qP5JqJdlawOr0lQXTmUqsjKe9nx" author="" url="UkM1U0lNUAMT69ni2H+I5iosjebHUMNWhlBijr5cDSKIeQNySYbxnBqK7m0HiyGkzmnoAWVwN8OqDuNVzMf8XL0R8wvDoYsJjEyt9T+CvPi8QtNFO3hH/wyXchQLNFHs" tags="" ctime="20170410122525" dir="1491816325yvmb4938tf" file="text.html" crypt="1"/>
+      <record id="14919133042uyvkq73t8" name="UkM1U0lNUANk2VPihelAR6yc/b/Y7362KPVyd9BSnCwrmhy2JzXDTR6KCRHXZK1KmUd891DV7rqqwfvxfD6qItzKr12XmXoa1ihjDoZmKbPctiMT73wEUx9MVS+OHjoy7KUQK0ih6Bs2lk2UZSFIZw==" author="" url="" tags="UkM1U0lNUAMy9B8UeghVwdtBTJU/1iV4lOZ90KjMMiQxY78ZqqXucP4m9hymzy434SR/fEKm9tbz4XwQEJbwEQ4oxuwm9V1B" ctime="20170411152144" dir="1491913304ivqga87fil" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="1511282897pkkxm81bao" name="UkM1U0lNUAPTbBTygY761sbirsIG6ZL5WSKiAHX71BwvG3FpDeTUxa2PgGjRpsl5">
+     <recordtable>
+      <record id="1511283106h58dseedlr" name="UkM1U0lNUAM9NxDxjL7gAOONwhodTSfgCgT0wZ/gu7Akz6fkESXHtUCbC7nXiW5HS+kHC1ALVJH/C8z15bLiKbyiwG9VzyVU7tMzDO7xOeCZkan7VHZ4WSVtLvaIV01h/yVY9pX7Oz4AugwqP+ifuQ==" author="" url="UkM1U0lNUANr//978Is60ayfwta8oMNIhyR+6AaSv92oSFrABVVyjLxkR1P2QVFG5WNdYAhGBZTv1Avc7e6gJaxUCtMHiQwfJDljW+peSn/CoP3j9vjxMg/HA3GxM8bnqvOksShYnDm99a70mMi1vQAdE421cQK62Y98TjApS4g=" tags="UkM1U0lNUAN4dSd3daNoAOjqr20xJSKTmKRtewG9tD3Z29OSUmcajl95zxgTIdzbSDkqtTMBKyY=" ctime="20171121195146" dir="1511283106vnsy01l2as" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="1" icon="" id="1490782745abu6ufajos" name="UkM1U0lNUANtFs/mi/ZdAEMzin5xqAJvlJ1mgys1yB1ZiUGE02jtCm+CYKT4eGfbmrA6RZzql/B5UUyMDF3QhQ==">
+    <recordtable>
+     <record id="1490783053vewlfwcmih" name="UkM1U0lNUAMEV7hVlUldPCP2vRdlvm2C7vS6gV4EAcX09sMeLBxnNITM8XmfQOeuYgQTWI/KJhR2WSr4XDBXJ6l2hnBxCWK2SC+aEF1j7Bo=" author="" url="" tags="" ctime="20170329132413" dir="1490783053xdtaugihx5" file="text.html" crypt="1"/>
+     <record id="1517341720hzrzhcejgp" name="UkM1U0lNUANXrKWBGwDX4kHnVWCv6gaRfspktYIPXNOjb7mked0HEQnaTJlvHyJVoaDijLzNBmNxZ76AeoLvH76vt5Yr1u/Im2ncVROS1gRvehA1pnys5trX5L+IprvD" author="" url="UkM1U0lNUAPpuNxBZILCgKY6ablyNe0kNe3YX/6Gr/CFyuH6zFBYGlFMSAYBksIv08zg20zFYPZXjFzUtgpnEKlAJ+hIJWVKkio6fIndHKg=" tags="UkM1U0lNUAOlA97maGCo6EfGMK3KVFNXV/mo/h18VTS+WpAvkZY4WA44ok7/ZB7nKdDeykZcbi0=" ctime="20180130224840" dir="1517341720hxu1haayf0" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1490791475bb20pss0y7" name="UkM1U0lNUAPXkzUuS4rDlcfnlG+TDFcsKhZ8USEhviWHtn9vXp5J+QgeCySBEIhrqByqQqaNH3AHQSlEm0V50LHS3SIaSvaD">
+    <recordtable>
+     <record id="1490791669btird1wgda" name="UkM1U0lNUAPQlZUX41QOU62J075WgruF4REPybOiPEqsk71HTYdaQff8aWgeVPS3E2mQjzpTwRi/9vyjfRmPZulGnce3BrUFNy0lrfcGmVAmJKEFnw98sdhegvx8YLQW" author="" url="" tags="" ctime="20170329154749" dir="1490791669s9xkotnf76" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
@@ -107,25 +120,35 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="1" icon="" id="1491589416coztdgf3w8" name="UkM1U0lNUAOLf9Y/Mt618SsiZXDAwpNgzJZ6iw7/W1mBnk0h/WaROQrliAeOYpJT">
+  <node crypt="1" icon="" id="1491589416coztdgf3w8" name="UkM1U0lNUANlb44M7dDp0T/PttpR3r8FPxHWdLbubahLJnAvjjkSnQKifXx7R95H">
    <recordtable>
-    <record id="14915894903wbiea308y" name="UkM1U0lNUAMeeVytvgbep7edXfjf8H4iFke6nMf+uHUfldYV0mZVeRi1FmF8q+Xx" author="" url="UkM1U0lNUAOWLDMQiODOjkmEicfgbo4r8e+tRyXPIyIrT+uFBGCMrv+AtIW00oJGC3m8PlcVrUV5LjIHu0ls1JqnRSza8vxRY1x2frf1kX7NReRvuzMwRw==" tags="" ctime="20170407212450" dir="1491589490rqfoc5jdsj" file="text.html" crypt="1"/>
+    <record id="14915894903wbiea308y" name="UkM1U0lNUAMxcvWGFkdKSBNOtIJCsjH5nxwwNzv+1MT3crCFtGsGHWEh9tHlUKOV" author="" url="UkM1U0lNUAPrh+pdfHBzw8y1J3EA0N6WURMnfKy7TFR+rHPawAcxZr2z6akcyBCasRJqtOoKBjQ24N6Y3LWJR7oPLiX+TM6I92l+nmH4lLg133EiClHdwg==" tags="" ctime="20170407212450" dir="1491589490rqfoc5jdsj" file="text.html" crypt="1"/>
    </recordtable>
-   <node crypt="1" icon="" id="1492805231n82c9ma9hl" name="UkM1U0lNUANDwrPJxGKYhNF1aiWfivw79tSMtltFgApe6Nim2S+xt2cRAC7Su/bkfu+PVRoZX4k=">
+   <node crypt="1" icon="" id="1492805231n82c9ma9hl" name="UkM1U0lNUANXkUDee55a6388OlXbNxJOg/o3glvVAwRFrUBKUAqtEreO3o5VYdwqSrxEb06gYZg=">
     <recordtable>
-     <record id="1492114004fycb3gqtzj" name="UkM1U0lNUAPlhezeeU+sscBLUKOdWFqymHIxMAy8mugzeNs36eJu3T6Wnm3Iz22IuXriijwW6Zagj5KTb5giZg==" author="" url="UkM1U0lNUAPc8xtBKgHHFq7432h3KxTvN8jlXqGbXP561HzbjzE0V9C0ClRNPxKCVCQ8qKmTNY4Lgyj0lCkF1yEl/1I9LoawbQEOOStr0WppSJrN3wPNZQ==" tags="" ctime="20170421230716" dir="1492114004es28zcb67p" file="text.html" crypt="1"/>
-     <record id="1492805345xevw217sje" name="UkM1U0lNUAOCia75S8bLnjw+GF9j6HPwRtoUpgDtNGm+mMagx8Nll8l0WNLw+i1nLUL/TbiuDU4Qeuic2RXyp1MRIepaQXbk" author="" url="UkM1U0lNUAMTFfuL9rWZeK4TQIeXUNQOAL9b2EWmv2PzRMf/vBVURHyvIvoMhXwAfOSui0v0SaSan9jYYb3UCJI6D2VzScsPq9VdjH5zJ9wmMPtdGLku6Q==" tags="" ctime="20170421230905" dir="149280534596wva99lf5" file="text.html" crypt="1"/>
-     <record id="1492948687l5dxeeu5rf" name="UkM1U0lNUAOTl7euVJ6ICgKd5AiIQW4FUYbjvwOPvDcffnSdHnXCDE1t3m8/r1iNSBz5fhv/AKMdtMBJCCX0Tw==" author="" url="UkM1U0lNUANZEqkdBj20vvv33usDSFSDwUUY9uqIP7jjfHLfaSN22xZo7ktE3ESpVDtQeQK17QHS4h3N7WHBwlZk1f9FQPpZcG9BZJTqG8ekzJk+GLadIglOUlXNn8L6" tags="" ctime="20170423145807" dir="14929486872qkmgbxm4h" file="text.html" crypt="1"/>
-     <record id="1492969657ddp27y29ki" name="UkM1U0lNUAN9MiECr1IEk8+JV/d69BTvkM0Za5Zs7FUlb/RDruKVMxTQiltc5OCW2fOPTmXD+Sz8CSOrxXR3x0KC13EuvQ48WQRhmJ4IcMvbtEy4Ur0GHUIUQl0efZwPrG0JSln8/jvL9p/FrqQ8X3jm30TM1SXZ" author="" url="UkM1U0lNUAMR6gaOHCiQzEVej2x19gWtx+2Ap1sW3mr1FxLDVbV2XpA9eGNXtkCJZijYiRk9P89asRwBom9sxHNL0ntohfLJYBn0qP71/e0Tju4ywZVyeJIcouFIUBpO" tags="UkM1U0lNUAORIswfP/SwC/+C+aILbIWkOs2AoyHBk1n8WxjfoXoeOjMdznWwN/Jg961KIRUJl90=" ctime="20170423204737" dir="149296965762ua9fepd4" file="text.html" crypt="1"/>
-     <record id="1493144594rcn9l3l3md" name="UkM1U0lNUAM2pvPBX4agsyyEtcBXbAJg8QnID3B2LTWKdG3H5I33wbd3sQnLSyrQJ35uZjrfghMeSZsgJGcI14rJbxlCn9KUr765KtM56gmaqIyo+ztERUjbQdhVvAeq" author="" url="" tags="" ctime="20170425212314" dir="1493144594e81o0fanb2" file="text.html" crypt="1"/>
-     <record id="1493491366u0rwwozfjk" name="UkM1U0lNUAO4M+8Y7WfkXR3zepru6c+T4Y/OKS9HLL0XDwq64ZkjruFAflBOzlMdzuxM19EkUFkQZQZTFDUJPTJHf5vfHYUf70K8X+7nOwhvxqaMl6l+IUEPwuJzc7g2jtBXOr+mbwM0uERwGxCmUfI4XkvJ89kc" author="" url="UkM1U0lNUANpfw6cbiaJ1VBLIc7QoOCx/dKoCTXhSnXUFV1X6xIGABJ3fUNCe2KQ6zCJhWImR5ZEs95MvwNb6kVY5FrfIDSF+sOiTtshR3Y2O0E1w8rhWw3kSh8CLA4m" tags="UkM1U0lNUAM45La38lIlGRv0QtyjivL2zQFbU4odsJ0GTmGjoKYhjm7Wuz1v6+OYc3UnO3xTOTE=" ctime="20170429214246" dir="14934913660lh2mz0tbl" file="text.html" crypt="1"/>
-     <record id="1495281526wvvsqp70ws" name="UkM1U0lNUAMrK6c3pP1fAwvhbAVGGhQF0OO5tQwPl9/kYINyjonL98oXvOzwYprqgPK6bqBFPwfk8vy14reePrYhU0AuEyHzS1TwrF+Nz97Fj/oW5/m6XQ==" author="" url="UkM1U0lNUAPhi1+HeG6yo7DoW7Efwdkav8yMtBeG3mtolwJUS5yiTjZ28JPzmbb/LDX9lDvbGJ8V5O9au6sErUDimYTq7cFh/bZqBPpCYCUQZ78CWr3yYV6f+XgU7yhj" tags="" ctime="20170520145846" dir="1495281526e71sm4j8bv" file="text.html" crypt="1"/>
-     <record id="1495830147ao409osmq8" name="UkM1U0lNUAP9JLpPG3VVoew1AHN/WLw++63XH1TLB1A4PAl3GflJ+Vd11tuj2ism4/vInnnJ5pez4u0DAlS1q9DFEBRSfjGkRAKL78pT0YA/gTVMA9Jabg==" author="" url="UkM1U0lNUAOkX46hg0nwn3cFxb2DmMQPwzl3JZkR8lADHbj7aUxstN8AWJi9SOPuL9hFhlvt+u+JjnLniMEZuAcQZUFrW3Bs2XT7WKXkdo6xQuZoXNtbdQ==" tags="UkM1U0lNUAMltguFRa0IjsKvoldZrz0Fh7VpyQhijwJC7+VyzpfswoLdiIuw+CTBX+WBAqY7PNYf/fCyz/r6sg==" ctime="20170526232227" dir="149583014716y8wftiyf" file="text.html" crypt="1"/>
+     <record id="1492114004fycb3gqtzj" name="UkM1U0lNUAMmPyOlAy7BIcf8R8MhEhTeJyJjIToaLQD0wqtBPuC8UmJugM3enRkSwghtxDYiHbIgfgH3AIGu2w==" author="" url="UkM1U0lNUAPMGMglre5k0F9CeTon6ZuAY8mHEJcdju8C9MudBhl5UG0WOnzwZ35xsK8zzbRfixq+VpNTDqg7BSER54HrqmC/qk76s0z/mSdffdpvewa3pQ==" tags="" ctime="20170421230716" dir="1492114004es28zcb67p" file="text.html" crypt="1"/>
+     <record id="1492805345xevw217sje" name="UkM1U0lNUANQwb9nTBhF/I4ZpjRmkzEKyEI2mWvurj7P94uWqJw4SKe6IPd18QC5nhWaywQ0fKOmaTY7AGQhkwujm83o3ThQ" author="" url="UkM1U0lNUANbNVEbTlSan10RP6/x03SgreF96Adx2pflonRX6xwPYVboPyxthLgJC988VD3t/1y47wLD0IfG0tdDoUAiUzPilhWqP7OA+XFDm9WP7TyDUA==" tags="" ctime="20170421230905" dir="149280534596wva99lf5" file="text.html" crypt="1"/>
+     <record id="1492948687l5dxeeu5rf" name="UkM1U0lNUAM1NWqcsSNfY8YjeGItpQst0cL1uMEd+bncSWIumoty7Z6zyzNFRZueTkrXa3I9o610WKM7XZbHJQ==" author="" url="UkM1U0lNUANQrx57bVOw17YfJ5xRlr4ESoj1aPdOn+lsmRVwneuMQxDjA5/OmGSXirlRxdMVLWxsHLTI1TLx2ts5V0X8Aewk77A6DmGVvmulNSmExyILMuP5G6ThiWN4" tags="" ctime="20170423145807" dir="14929486872qkmgbxm4h" file="text.html" crypt="1"/>
+     <record id="1492969657ddp27y29ki" name="UkM1U0lNUANDe/yHyUzOHBPb6eRbl/KW9kxAya9zayY9dt1QCyrfs9zGZmBbuaUudxW2MQA7QoQ32t507rtIrGsUKtjgby4xxILHabdwEwEKci3no1c+NVFczZq0ynaTgiQvQBbxBG7CO4w89meX2SjzDjBr+kT4" author="" url="UkM1U0lNUAMdYTBh3CzopVzz4ByoCZdWXg+H2BampzoHsYDbEFZJHNv27tZUdX7q5DTmoissVdKEylR5yQwGYZoKJ7HTJtobUF8akqKYXp+U6EltygMXs+kxEdVGmULC" tags="UkM1U0lNUAPy8JJTzL48cQedhNTQO7nHDLYnHI67VwfrRBN3KrY+tRKd/B+wuhu7xN60jrx8R/E=" ctime="20170423204737" dir="149296965762ua9fepd4" file="text.html" crypt="1"/>
+     <record id="1493144594rcn9l3l3md" name="UkM1U0lNUAPmh+7sP7CAWlHGCSM4OSffyhL54M1k3WvvonJm3yPIbqzKUW+bfxOASVxwvH7JrExaRpQH/XjfxuzsHbnFF2iEPg+LviuMy+JSI5wGgfNiemcst6D8/R64" author="" url="" tags="" ctime="20170425212314" dir="1493144594e81o0fanb2" file="text.html" crypt="1"/>
+     <record id="1493491366u0rwwozfjk" name="UkM1U0lNUAMhnOJaugtQSjTPujyTCKR3m30kkUPJhkuoE+ig3AKLe6UjIQ5sY05nrQrCgoleTS1BuStOiAcX3DUh6Y4i69sAKrZBYzT+x0vMqUDxQ5QilJ+FTbBA2pB+UgabeqX+33zIexeaT4MauysIOBCcfUOb" author="" url="UkM1U0lNUAMIuIKkmtxfpdwT40VZGZ6rVXtvRtpgWWNRsvnyaYIP5o+lLQCu3gu5pqpSFPr6rfC+wxpJclflG7suxlW6yd3Lg+ej+TvE0H3ylPQHTh9Ymw6ey81syKpP" tags="UkM1U0lNUANMwyUERcqeImecdaNCe0s+WqDQ2+kUHUY+B1eJoaHWjxACyaHkNshxLYRrON+G440=" ctime="20170429214246" dir="14934913660lh2mz0tbl" file="text.html" crypt="1"/>
+     <record id="1495281526wvvsqp70ws" name="UkM1U0lNUAP1mQuYRbhq0FVJqnb65RJpMLn5yv1dipPRC7EAcSorxCm1ftDaE79xfi8rYF5ZpnjrLvXKmbwcAdwYubFlZICIQdRt92cxs8j5CiR5QNPALw==" author="" url="UkM1U0lNUANvL70SjrQHKJFnL9ZfMPG5RatP898UrWCZnp6xJZxUEMwLMcBw1lyj19RwtqTvQYpM4LZ9mb7RMuSQd6d3+ga7tZ9MJUAGLTr7V2bV5tCrJFd2TOaUc0Em" tags="" ctime="20170520145846" dir="1495281526e71sm4j8bv" file="text.html" crypt="1"/>
+     <record id="1495830147ao409osmq8" name="UkM1U0lNUAPVaowWJOHmkoUdkTLQRckW1edRSYazTC+TDZa15s3AgvDtzYDk3UzbndheS4jIwAdqaDWKNF/EXWDQ/0RYepnapmNQkhmZ0dxH9uzWlT4FBQ==" author="" url="UkM1U0lNUAP2fHbL5gPiCvLacf+wdu06inE96p9zmLh9tGkV3xCkUceazQItHGQRkzNA5RhnwkKTFU9AHr+eOyqx7htmJDR/fBgTcikVyuOO4tWFXEObOw==" tags="UkM1U0lNUAN6gLb39oLd+R68VpXdF1vKAUly9/VR2WNLm6GJaDS6iXxTrsxqBJpuJHpoZgaYmsBSe0ZDHVqwbg==" ctime="20170526232227" dir="149583014716y8wftiyf" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="1" icon="" id="1493142399piqeq7h5r1" name="UkM1U0lNUAPZFIO3uNWwZI1OXnKEjfF5HTzoNNSW3H8ppMEgg0+qNJV1J/pTICte">
+   <node crypt="1" icon="" id="1493142399piqeq7h5r1" name="UkM1U0lNUAMzRT7pPDRrGhMlkxoSWi8wuLBCbXgGetB0H4DLPEQkAqu2mCrSv0eD">
     <recordtable>
-     <record id="14931424977rstk73h26" name="UkM1U0lNUAMBhVdH95W/C6L5AMcIk2H3rmz62eK/SQV6bbZefwCUropludhzrWUAkqWYNTDPTlLZoXRDFG+gG5r1mMtAAsdy" author="" url="" tags="" ctime="20170425204817" dir="1493142497dibnb773eu" file="text.html" crypt="1"/>
+     <record id="14931424977rstk73h26" name="UkM1U0lNUAPg4PI0C6ZFaVIghYEs2xSajMsccq51vaaxBAmOwmdCHN4op/fx07RUFWPdVBzjrHqgh5m26j/p2oCGQfxxku6b" author="" url="" tags="" ctime="20170425204817" dir="1493142497dibnb773eu" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1510636073e6zz2mqphw" name="UkM1U0lNUAMBZvXzmgCZ31hvYwzw+kxj4pJW21RenVbONcOEsF9luay/ESax6stBLWVfVwBklN4=">
+    <recordtable>
+     <record id="1510636197u5643r9kpm" name="UkM1U0lNUAPTNM3HymRVYER+/u6gVZt6MRStJ4nTwdARV65jCbro9eGs3WWjD9b6j6UQiQelTlcBzCXupno4wYt656Bd2UtQhJu3+/+J5zLFi2ReXMDc6M6o7sOZwlKn" author="" url="UkM1U0lNUAOjDSPY2uqiPqOcyh+fPqX16uv7OeP240PNL7/7jAVUGIHF4UCwcrH63BsAJQeryEojiwE6vgI9+14RqVGBLFYbW8fa3bboThMnWHG8d5DkzA==" tags="UkM1U0lNUANiG9FvPqlJKbqSkaKjxQKIAxnXwWZlvWKrhirJd03E991hafOC1DHeb+QUbiMAEhIOpYWkaTxB0PZJJfe8P2e9D5MUw/kwTgMu2xwehbif4Vc3JmNOF0Db" ctime="20171114080957" dir="1510636197j8m998it0w" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1518437483ayfmdwhwaa" name="UkM1U0lNUANcrNeGu8sGbdWLrjZnb1QoyPnLhhV5NPP/T5ri59LSW1wq596DZQ0R">
+    <recordtable>
+     <record id="1518437569ydt87ypxl6" name="UkM1U0lNUAMhGE7jAGcLKwbMFrHvMECt1nGLQneywsTAdneN9a1pbgdmItUJJQDsbsASUBhZnEQ=" author="" url="" tags="" ctime="20180212151249" dir="1518437569lj16rlpf8l" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
@@ -135,13 +158,35 @@
      <record id="1505998585cijvx4djuv" name="heroku - тестовый проект на Python" author="" url="https://devcenter.heroku.com/articles/getting-started-with-python#introduction" tags="" ctime="20170921155625" dir="150599858560aqmf6y0o" file="text.html"/>
     </recordtable>
    </node>
-  </node>
-  <node crypt="" id="1506409692riovfx3izw" name="Linux">
-   <node crypt="" id="1506409905vlb5iwbtge" name="Using">
+   <node crypt="" id="1506543924s0r56nbmm3" name="Python">
     <recordtable>
-     <record id="1506410077dd3qo2iw49" name="mc" author="" url="" tags="" ctime="20170926101437" dir="1506410077bie3nczy6g" file="text.html"/>
+     <record id="1506544279mx2ul1ngyu" name="Ipython3.6" author="" url="" tags="" ctime="20170927233119" dir="15065442793m7usdy3fk" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1506628318fdwximzxbs" name="PostgreSQL">
+    <recordtable>
+     <record id="1506628601knsmy0ng5i" name="PostgreSQL начало" author="" url="" tags="db postgres sql" ctime="20170928225641" dir="1506628601szfpcdrbaj" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1516713872u2lfq8h8vp" name="Golang">
+    <recordtable>
+     <record id="15167139949z3pupeife" name="GOPATH" author="" url="https://habrahabr.ru/company/mailru/blog/301036/" tags="golang, administration" ctime="20180123162634" dir="1516713994trbunhjkpe" file="text.html"/>
+     <record id="1516724482yzky9dom7i" name="Материалы для чтения (coursera-mail.ru-week1)" author="Василий Романов" url="https://www.coursera.org/learn/golang-webservices-1/supplement/pGcQk/matierialy-dlia-chtieniia-k-1-mu-uroku" tags="golang, 2read" ctime="20180123192122" dir="1516724482no5dwu2xid" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1506409692riovfx3izw" name="Linux">
+   <node crypt="" id="1506409905vlb5iwbtge" name="User">
+    <recordtable>
+     <record id="1506410077dd3qo2iw49" name="mc" author="" url="" tags="" ctime="20170926101437" dir="1506410077bie3nczy6g" file="text.html"/>
+     <record id="1519328944yann6ksjxf" name="Firefox: Hide Caption Title bar" author="" url="https://unix.stackexchange.com/questions/52565/how-to-disable-window-decorations-in-cinnamon" tags="firefox, hide caption, hide title, linux, mint, cinnamon, ubuntu, debian" ctime="20180222224904" dir="1519328944g4b7k169v5" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1511357042jx0q0ff1xv" name="Музыка">
+   <recordtable>
+    <record id="1511357288cqxult9p2q" name="Может ли музыка помочь в учёбе" author="Томас Франк" url="https://www.youtube.com/watch?v=prvKm8n8DJ8" tags="music" ctime="20171122162808" dir="15113572883va41qzg8c" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
